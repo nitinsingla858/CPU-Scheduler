@@ -1,4 +1,7 @@
 # CPU-Scheduler
+
+Live at:https://nitinsingla858.github.io/CPU-Scheduler/
+
 #FCFS #SJF #RoundRobin #SRTF #Priority #CPU Scheduling Algorithm
 
 The Simulation Website of CPU Scheduling Algorithm is an interactive platform designed to simulate various CPU scheduling algorithms, including First Come First Serve (FCFS), Shortest Job First (SJF), Round Robin (RR), Shortest Remaining Time First (SRTF), Priority, and other popular algorithms.
