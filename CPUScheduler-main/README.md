@@ -9,7 +9,3 @@ The website provides a user-friendly interface where users can input their own d
 
 This simulation website is an excellent tool for students, educators, and professionals who are interested in learning about CPU scheduling algorithms and their practical applications. It provides a hands-on learning experience that allows users to experiment with different scheduling algorithms and understand their impact on system performance.
 
-The code for this simulation website is available on GitHub, and can be easily modified and adapted to suit specific needs and requirements. It is designed to be user-friendly, customizable, and accessible to users with different levels of programming experience.
-
-
-
